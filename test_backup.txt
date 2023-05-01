@@ -1,0 +1,225 @@
+Fri 07 Apr 2023 02:47:13 PM EDT
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 8192
+|Y| = 8192
+
+
+data read for m = 8192 and n = 8192
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 0.6862 sec, system time = 0.0003 sec, total time = 0.6866
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 0.6862 sec, avg. system time = 0.0003 sec, avg. total time = 0.6866 ( 0h 0m 1s )
+
+run 1: user time = 0.6862 sec, system time = 0.0003 sec, total time = 0.6866 ( 0h 0m 1s ), LCS length = 2657
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 8192
+|Y| = 8192
+
+
+data read for m = 8192 and n = 8192
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 0.5345 sec, system time = 0.0002 sec, total time = 0.5347
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 0.5345 sec, avg. system time = 0.0002 sec, avg. total time = 0.5347 ( 0h 0m 1s )
+
+run 1: user time = 0.5345 sec, system time = 0.0002 sec, total time = 0.5347 ( 0h 0m 1s ), LCS length = 2657
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 16384
+|Y| = 16384
+
+
+data read for m = 16384 and n = 16384
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 2.7236 sec, system time = 0.0000 sec, total time = 2.7236
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 2.7236 sec, avg. system time = 0.0000 sec, avg. total time = 2.7236 ( 0h 0m 3s )
+
+run 1: user time = 2.7236 sec, system time = 0.0000 sec, total time = 2.7236 ( 0h 0m 3s ), LCS length = 5327
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 16384
+|Y| = 16384
+
+
+data read for m = 16384 and n = 16384
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 2.0349 sec, system time = 0.0000 sec, total time = 2.0349
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 2.0349 sec, avg. system time = 0.0000 sec, avg. total time = 2.0349 ( 0h 0m 2s )
+
+run 1: user time = 2.0349 sec, system time = 0.0000 sec, total time = 2.0349 ( 0h 0m 2s ), LCS length = 5327
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 32768
+|Y| = 32768
+
+
+data read for m = 32768 and n = 32768
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 10.8126 sec, system time = 0.0009 sec, total time = 10.8136
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 10.8126 sec, avg. system time = 0.0009 sec, avg. total time = 10.8136 ( 0h 0m 11s )
+
+run 1: user time = 10.8126 sec, system time = 0.0009 sec, total time = 10.8136 ( 0h 0m 11s ), LCS length = 10627
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 32768
+|Y| = 32768
+
+
+data read for m = 32768 and n = 32768
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 7.9798 sec, system time = 0.0015 sec, total time = 7.9813
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 7.9798 sec, avg. system time = 0.0015 sec, avg. total time = 7.9813 ( 0h 0m 8s )
+
+run 1: user time = 7.9798 sec, system time = 0.0015 sec, total time = 7.9813 ( 0h 0m 8s ), LCS length = 10627
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 65536
+|Y| = 65536
+
+
+data read for m = 65536 and n = 65536
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 43.2425 sec, system time = 0.0000 sec, total time = 43.2425
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 43.2425 sec, avg. system time = 0.0000 sec, avg. total time = 43.2425 ( 0h 0m 43s )
+
+run 1: user time = 43.2425 sec, system time = 0.0000 sec, total time = 43.2425 ( 0h 0m 43s ), LCS length = 21269
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 65536
+|Y| = 65536
+
+
+data read for m = 65536 and n = 65536
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 31.9424 sec, system time = 0.0003 sec, total time = 31.9427
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 31.9424 sec, avg. system time = 0.0003 sec, avg. total time = 31.9427 ( 0h 0m 32s )
+
+run 1: user time = 31.9424 sec, system time = 0.0003 sec, total time = 31.9427 ( 0h 0m 32s ), LCS length = 21269
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 131072
+|Y| = 131072
+
+
+data read for m = 131072 and n = 131072
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 173.2203 sec, system time = 0.0080 sec, total time = 173.2283
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 173.2203 sec, avg. system time = 0.0080 sec, avg. total time = 173.2283 ( 0h 2m 53s )
+
+run 1: user time = 173.2203 sec, system time = 0.0080 sec, total time = 173.2283 ( 0h 2m 53s ), LCS length = 42705
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 131072
+|Y| = 131072
+
+
+data read for m = 131072 and n = 131072
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 127.8415 sec, system time = 0.0120 sec, total time = 127.8535
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 127.8415 sec, avg. system time = 0.0120 sec, avg. total time = 127.8535 ( 0h 2m 8s )
+
+run 1: user time = 127.8415 sec, system time = 0.0120 sec, total time = 127.8535 ( 0h 2m 8s ), LCS length = 42705
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 262144
+|Y| = 262144
+
+
+data read for m = 262144 and n = 262144
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 691.1753 sec, system time = 0.0160 sec, total time = 691.1913
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 691.1753 sec, avg. system time = 0.0160 sec, avg. total time = 691.1913 ( 0h 11m 31s )
+
+run 1: user time = 691.1753 sec, system time = 0.0160 sec, total time = 691.1913 ( 0h 11m 31s ), LCS length = 85403
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 262144
+|Y| = 262144
+
+
+data read for m = 262144 and n = 262144
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 508.7158 sec, system time = 0.0399 sec, total time = 508.7557
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 508.7158 sec, avg. system time = 0.0399 sec, avg. total time = 508.7557 ( 0h 8m 29s )
+
+run 1: user time = 508.7158 sec, system time = 0.0399 sec, total time = 508.7557 ( 0h 8m 29s ), LCS length = 85403
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 524288
+|Y| = 524288
+
+
+data read for m = 524288 and n = 524288
+number of runs = 1, base case = 32
+
+ALG_Hirschberg ( dynamic mem ) user time = 6452.6996 sec, system time = 12055.5266 sec, total time = 18508.2262
+
+ALG_Hirschberg ( dynamic mem ) avg. user time = 6452.6996 sec, avg. system time = 12055.5266 sec, avg. total time = 18508.2262 ( 5h 8m 28s )
+
+run 1: user time = 6452.6996 sec, system time = 12055.5266 sec, total time = 18508.2262 ( 5h 8m 28s ), LCS length = 170676
+
+Prog: ./a.out
+
+sequence pair 1:
+|X| = 524288
+|Y| = 524288
+
+
+data read for m = 524288 and n = 524288
+number of runs = 1, base case = 32
+
+rec_linear_LCS ( dynamic mem ) user time = 2041.2990 sec, system time = 0.1234 sec, total time = 2041.4224
+
+rec_linear_LCS ( dynamic mem ) avg. user time = 2041.2990 sec, avg. system time = 0.1234 sec, avg. total time = 2041.4224 ( 0h 34m 1s )
+
+run 1: user time = 2041.2990 sec, system time = 0.1234 sec, total time = 2041.4224 ( 0h 34m 1s ), LCS length = 170676
+
